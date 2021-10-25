@@ -145,28 +145,6 @@
   <ItemGroup>
     <ClInclude Include="project.h" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2\lib\x64\SDL2.dll" />
-    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\libjpeg-9.dll" />
-    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\libpng16-16.dll" />
-    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\libtiff-5.dll" />
-    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\libwebp-7.dll" />
-    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\SDL2_image.dll" />
-    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\zlib1.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\LICENSE.jpeg.txt" />
-    <Text Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\LICENSE.png.txt" />
-    <Text Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\LICENSE.tiff.txt" />
-    <Text Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\LICENSE.webp.txt" />
-    <Text Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\LICENSE.zlib.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <Library Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2\lib\x64\SDL2.lib" />
-    <Library Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2\lib\x64\SDL2main.lib" />
-    <Library Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2\lib\x64\SDL2test.lib" />
-    <Library Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\SDL2_image.lib" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
