@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Resource Files\SDL">
+      <UniqueIdentifier>{a45bafc9-3542-4f99-b65a-82a2bf071afb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
@@ -26,5 +29,59 @@
     <ClInclude Include="project.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\zlib1.dll">
+      <Filter>Resource Files\SDL</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\libjpeg-9.dll">
+      <Filter>Resource Files\SDL</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\libpng16-16.dll">
+      <Filter>Resource Files\SDL</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\libtiff-5.dll">
+      <Filter>Resource Files\SDL</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\libwebp-7.dll">
+      <Filter>Resource Files\SDL</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2\lib\x64\SDL2.dll">
+      <Filter>Resource Files\SDL</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\SDL2_image.dll">
+      <Filter>Resource Files\SDL</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\LICENSE.jpeg.txt">
+      <Filter>Resource Files\SDL</Filter>
+    </Text>
+    <Text Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\LICENSE.png.txt">
+      <Filter>Resource Files\SDL</Filter>
+    </Text>
+    <Text Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\LICENSE.tiff.txt">
+      <Filter>Resource Files\SDL</Filter>
+    </Text>
+    <Text Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\LICENSE.webp.txt">
+      <Filter>Resource Files\SDL</Filter>
+    </Text>
+    <Text Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\LICENSE.zlib.txt">
+      <Filter>Resource Files\SDL</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2\lib\x64\SDL2.lib">
+      <Filter>Resource Files\SDL</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2_image\lib\x64\SDL2_image.lib">
+      <Filter>Resource Files\SDL</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2\lib\x64\SDL2main.lib">
+      <Filter>Resource Files\SDL</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\OneDrive\Bureau\ESIEE\unité_2ere_année\INf-4102A Générisité et C++\Project_SDL_Part1_base\Project_SDL_Part1_base\SDL2\lib\x64\SDL2test.lib">
+      <Filter>Resource Files\SDL</Filter>
+    </Library>
   </ItemGroup>
 </Project>
