@@ -5,26 +5,6 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VSProject", "VSProject\VSProject.vcxproj", "{9B0D31E4-F53F-4C57-B549-D70B188B4AE5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SDL", "SDL", "{E67870A3-18D2-4748-ABCB-D23AD906599D}"
-	ProjectSection(SolutionItems) = preProject
-		SDL\libjpeg-9.dll = SDL\libjpeg-9.dll
-		SDL\libpng16-16.dll = SDL\libpng16-16.dll
-		SDL\libtiff-5.dll = SDL\libtiff-5.dll
-		SDL\libwebp-7.dll = SDL\libwebp-7.dll
-		SDL\LICENSE.jpeg.txt = SDL\LICENSE.jpeg.txt
-		SDL\LICENSE.png.txt = SDL\LICENSE.png.txt
-		SDL\LICENSE.tiff.txt = SDL\LICENSE.tiff.txt
-		SDL\LICENSE.webp.txt = SDL\LICENSE.webp.txt
-		SDL\LICENSE.zlib.txt = SDL\LICENSE.zlib.txt
-		SDL\SDL2.dll = SDL\SDL2.dll
-		SDL\SDL2.lib = SDL\SDL2.lib
-		SDL\SDL2_image.dll = SDL\SDL2_image.dll
-		SDL\SDL2_image.lib = SDL\SDL2_image.lib
-		SDL\SDL2main.lib = SDL\SDL2main.lib
-		SDL\SDL2test.lib = SDL\SDL2test.lib
-		SDL\zlib1.dll = SDL\zlib1.dll
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
